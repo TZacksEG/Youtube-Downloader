@@ -9,7 +9,7 @@ it downloads the max possible video resolution available
 # How to use?
 •	simply run the exe 
 
-•	choice if you want to download a single video or a whole playlist 
+•	choose if you want to download a single video or a whole playlist 
 
 •	type s for single video OR p for playlist 
 
