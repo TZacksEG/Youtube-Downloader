@@ -15,7 +15,7 @@ z = """
  /_____|  \_____| |_|  \_\ _  |_|    |_|         |_|     \____/ 
 """
 
-# Greetings Because I love colors
+
 name = platform.uname()[1]
 print(Fore.BLUE + z)
 time.sleep(1)
