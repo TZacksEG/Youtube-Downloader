@@ -11,7 +11,7 @@ it downloads the max possible video resolution available
 
 •	choose if you want to download a single video or a whole playlist 
 
-•	type s for single video OR p for playlist 
+•	type **s** for single video OR **p** for playlist 
 
 •	paste the link for the video 
 
